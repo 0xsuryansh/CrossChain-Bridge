@@ -1,11 +1,11 @@
-# crossChain-Bridge
+# CrossChain-Bridge
 cross chain bridge using DCRM technology
 
 ## Building
 
 ```shell
-git clone https://github.com/anyswap/CrossChain-Bridge.git
-cd crossChain-Bridge
+git clone https://github.com/0xsuryansh/CrossChain-Bridge.git
+cd CrossChain-Bridge
 make all
 ```
 
